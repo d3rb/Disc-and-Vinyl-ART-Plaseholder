@@ -1,1 +1,3 @@
 # Disc-and-Vinyl-ART-Plaseholder
+
+put the images to your image/discart Folder in your Georgia-ReBORN Folder and Rename the File "vinyl-custom.png" or "vinyl-transparent.png" ...
